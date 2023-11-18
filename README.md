@@ -1,4 +1,4 @@
-# roox-module
+# Roox Pseudomodule
 # Rukovoditel Plug In 
 
 A regular Rukovoditel module consists of two important parts: actions and views.
